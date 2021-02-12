@@ -1,0 +1,2 @@
+$(function(){
+	$("#compra").keyup(function(){
